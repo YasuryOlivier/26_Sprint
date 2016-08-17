@@ -1,0 +1,45 @@
+/* Inserta tu codigo aqui */
+li{
+	display: inline-block;
+	list-style:none;
+}
+.fondo-1{
+	background-image: url("../img/header-image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.negro{
+	background-color: black;
+	margin: 10%;
+	padding: 10%;
+}
+span{
+	font-size: 570%;
+	color: #ff9900;
+	font-style: italic;
+}
+.flor-1{
+	background-image: url("../img/image7.jpg");
+}
+.flor-2{
+	background-image: url("../img/image3.jpg")	
+}
+.flor-3{
+	background-image: url("../img/image4.jpg")
+}
+.flores{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 10%;
+}
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
