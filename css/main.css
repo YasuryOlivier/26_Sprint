@@ -1,7 +1,17 @@
-/* Inserta tu codigo aqui */
-li{
-	display: inline-block;
-	list-style:none;
+/* */
+ul{
+	color: white;
+	margin-bottomn: 100px;
+
+}
+.bg-md{
+	background-color: #2d2735;
+}
+.espacio{
+	margin-bottom: 10%;
+}
+.espacio-1{
+	padding-left: 3%;
 }
 .fondo-1{
 	background-image: url("../img/header-image.jpg");
@@ -13,28 +23,29 @@ li{
 	margin: 10%;
 	padding: 10%;
 }
-span{
+.tit{
 	font-size: 570%;
 	color: #ff9900;
 	font-style: italic;
 }
-.flor-1{
-	background-image: url("../img/image7.jpg");
-}
-.flor-2{
-	background-image: url("../img/image3.jpg")	
-}
-.flor-3{
-	background-image: url("../img/image4.jpg")
-}
-.flores{
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 100%;
-	padding: 10%;
+
+.bg-negro{
+background-color:#000; 
 }
 
-/* Responsive */
+.logo{
+	width: 30%;
+	height: 1%;
+	margin-bottom:1%; 
+}
+.buscador{
+	padding: 50px;
+	width: 100%;
+}
+.img-2{
+	width: 20px;
+	height: 10px;
+}
 
 @media screen and (max-width : 920px) {
 
